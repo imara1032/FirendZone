@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">FirendZone</string>
+    <string name="friendzone">FriendZone</string>
+    <string name="display">0</string>
+
+    <string-array name="tutorials_array">
+        <item>Counter App</item>
+        <item>Calculator</item>
+        <item>Find My Age</item>
+        <item>Find the most beautiful country</item>
+        <item>How to use picasso</item>
+        <item>My Bio app</item>
+    </string-array>
 </resources>
